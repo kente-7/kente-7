@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Elliot 👋
 
-<!--
-**kente-7/kente-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at the University of Exeter with a strong interest in data science and machine learning.  
+I enjoy working on data-driven projects that combine programming, statistics, and real-world problem solving.
 
-Here are some ideas to get you started:
+### 🔍 Interests
+- Data science and applied machine learning
+- Data analysis using Python and SQL
+- Building and evaluating predictive models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+**Languages:** Python, SQL  
+**Libraries & Tools:** Pandas, NumPy, TensorFlow, scikit-learn, Matplotlib  
+**Concepts:** Supervised learning, neural networks, data preprocessing, model evaluation  
+
+### 📌 Selected Projects
+- **Neural Network Classification** – Built and evaluated a classification model using TensorFlow  
+- **Data Analysis with Python & SQL** – Exploratory analysis and querying of structured datasets  
+- **Machine Learning Coursework** – Applied ML techniques as part of my Computer Science degree  
+
+### 🌱 Currently Learning
+- Advanced machine learning techniques
+- Improving model performance and interpretability
+
+### 📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/elliot-kent-614754257/)
