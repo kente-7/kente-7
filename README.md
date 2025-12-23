@@ -23,4 +23,4 @@ I enjoy working on data-driven projects that combine programming, statistics, an
 - Improving model performance and interpretability
 
 ### 📫 Connect with me
-- LinkedIn: [https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/elliot-kent-614754257/)
+- LinkedIn: https://www.linkedin.com/in/elliot-kent-614754257/
